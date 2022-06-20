@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "async"]
+	path = async
+	url = https://github.com/crowding/async
+	shallow = true
+	registered = true
