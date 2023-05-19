@@ -8,6 +8,11 @@
 	url = https://github.com/crowding/async
 	shallow = true
 	registered = true
+[submodule "iterors"]
+	path = iterors
+	url = https://github.com/crowding/iterors
+	shallow = true
+	registered = true
 [submodule "memo"]
 	path = memo
 	url = https://github.com/crowding/memo
