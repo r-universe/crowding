@@ -2,15 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "async"]
-	path = async
-	url = https://github.com/crowding/async
 [submodule "iterors"]
 	path = iterors
 	url = https://github.com/crowding/iterors
 [submodule "memo"]
 	path = memo
 	url = https://github.com/crowding/memo
-[submodule "nseval"]
-	path = nseval
-	url = https://github.com/crowding/nseval
